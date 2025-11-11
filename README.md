@@ -28,3 +28,29 @@ Make sure you have the following installed in Termux:
 pkg update
 pkg install termux-api ffmpeg
 ```
+
+Grant microphone permission:
+```bash
+termux-microphone-record -g
+```
+
+Optionally allow file storage:
+```bash
+termux-setup-storage
+```
+
+---
+
+##🚀 Installation
+
+Clone this repo:
+```bash
+https://github.com/HassanIQ777/Lundy-Recorder.git
+cd Lundy-Recorder
+chmod +x lundy_recorder.sh
+```
+
+
+
+
+
