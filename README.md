@@ -41,7 +41,7 @@ termux-setup-storage
 
 ---
 
-##🚀 Installation
+## 🚀 Installation
 
 Clone this repo:
 ```bash
@@ -49,6 +49,30 @@ https://github.com/HassanIQ777/Lundy-Recorder.git
 cd Lundy-Recorder
 chmod +x lundy_recorder.sh
 ```
+
+## 🕹️ Usage
+
+Launch the recorder:
+```bash
+./lundy_recorder.sh
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
